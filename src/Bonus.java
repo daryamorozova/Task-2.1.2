@@ -1,5 +1,6 @@
 public class Bonus {
     public static void main(String[] args) {
+        // Проверка коммита
         // Размер пополнения счёта
         int topup = 1500;
         int bonus;
